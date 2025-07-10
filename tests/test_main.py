@@ -1,5 +1,5 @@
 import pytest
-from src.micrograd.micrograd import add
+from src.micrograd.utils import add
 
 @pytest.mark.parametrize(
     "inp1, inp2, expected",
