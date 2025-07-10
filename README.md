@@ -1,5 +1,6 @@
 # Neural Networks: Zero to Hero
 
+
 This repository documents my early experiments with neural networks and my journey to understand their inner workings. The code and concepts here are heavily inspired by Andrej Karpathy's YouTube series, **Neural Networks: Zero to Hero**. Thanks for the wonderful series Andrej!
 
 ## Project Structure
