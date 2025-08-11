@@ -27,7 +27,7 @@ This repository documents my early experiments with neural networks and my journ
 
 **Part 4: building makemore Part 3: Activations & Gradients, BatchNorm**
 
-- [makemore Github repo](https://github.com/sganesa2/batchnormalized-mlp)
+- [BatchNormalized MLP Github repo](https://github.com/sganesa2/batchnormalized-mlp)
 
 ---
 
