@@ -33,7 +33,7 @@ This repository documents my early experiments with neural networks and my journ
 
 **Part 5: Building makemore Part 4: Becoming a Backprop Ninja**
 
-- Upcoming..
+- [Decoding Backpropagation Github repo](https://github.com/sganesa2/decoding-backpropagation)
 
 ---
 
