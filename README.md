@@ -39,7 +39,7 @@ This repository documents my early experiments with neural networks and my journ
 
 **Part 6: Building makemore Part 5: Building WaveNet**
 
-- Upcoming..
+- [WaveNet(2016) implementation Github repo](https://github.com/sganesa2/wavenet)
 
 ---
 
