@@ -72,8 +72,8 @@ This project requires **Python 3.11 or higher**.
 
 **Development and testing:**
 - [`pytest`](https://pypi.org/project/pytest/) >= 8.4.1
-- ['matplotlib'](https://pypi.org/project/matplotlib/) >=3.10.5
-- ['torch'](https://pypi.org/project/torch/) >=2.8.0
+- [`matplotlib`](https://pypi.org/project/matplotlib/) >=3.10.5
+- [`torch`](https://pypi.org/project/torch/) >=2.8.0
 
 You can install dependencies using your preferred tool:
 
